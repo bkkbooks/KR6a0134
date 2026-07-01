@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0134/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說食施獲五福報經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0132a.xml
+    old_id: T02n0132a
+hash: sha256:494f58628335f542484223007fa5cc5483f576085130d34ccf3a769bd4c33b0b

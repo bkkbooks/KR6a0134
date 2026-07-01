@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6a0134/v1
+canonical_location: https://kanripo.org/bkk/KR6a0134/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說食施獲五福報經
+  identifiers:
+    alt_id:
+    - T02n0132a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0132a.xml
+    old_id: T02n0132a
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0134_000.yaml, hash: 'sha256:494f58628335f542484223007fa5cc5483f576085130d34ccf3a769bd4c33b0b'}
+  - {seq: 1, filename: KR6a0134_001.yaml, hash: 'sha256:90dcfdec808c6307a0e7e0111955797560b54b688da286d8af1ad193bd3c9169'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0134_001.markers.yaml, hash: 'sha256:cfc605b071378fce14ababff2a1693544234348d37dedfabe0a018fe118adca6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0134_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 549
+  label: 佛說食施獲五福報經
+  type: juan
+  level: 1
+hash: sha256:9613db006a6651da90fa4ebe5a6b534e6c7904e836e7d7169a0850ee687208d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
