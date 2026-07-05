@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0134_000.yaml, hash: 'sha256:494f58628335f542484223007fa5cc5483f576085130d34ccf3a769bd4c33b0b'}
-  - {seq: 1, filename: KR6a0134_001.yaml, hash: 'sha256:90dcfdec808c6307a0e7e0111955797560b54b688da286d8af1ad193bd3c9169'}
+  - {seq: 1, filename: KR6a0134_001.yaml, hash: 'sha256:8dd197660330bba2fea8c0a754b00bf73ee3752922c3033a81b54ffd762fb788'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0134_001.markers.yaml, hash: 'sha256:cfc605b071378fce14ababff2a1693544234348d37dedfabe0a018fe118adca6'}
+  - {seq: 0, role: markers, filename: assets/KR6a0134_000.markers.yaml, hash: 'sha256:e41a2ae2efbe9ce5530ef617c305344f138687083367765206523b61ac438117'}
+  - {seq: 1, role: markers, filename: assets/KR6a0134_001.markers.yaml, hash: 'sha256:e04b7598f8bf42138016bcd5f3e35e4f9eba9a66435b4453337c9223b6fc4721'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說食施獲五福報經
   type: juan
   level: 1
-hash: sha256:9613db006a6651da90fa4ebe5a6b534e6c7904e836e7d7169a0850ee687208d8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3115a1b675486060b407bdef01f221089eff6b40b009ad67c8e95f404b942cef
