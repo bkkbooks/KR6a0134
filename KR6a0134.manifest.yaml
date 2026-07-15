@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0134/v1
 canonical_location: https://kanripo.org/bkk/KR6a0134/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說食施獲五福報經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0134_000.yaml, hash: 'sha256:494f58628335f542484223007fa5cc5483f576085130d34ccf3a769bd4c33b0b'}
-  - {seq: 1, filename: KR6a0134_001.yaml, hash: 'sha256:8dd197660330bba2fea8c0a754b00bf73ee3752922c3033a81b54ffd762fb788'}
+  - {seq: 1, filename: KR6a0134_001.yaml, hash: 'sha256:3b43afdbb0ba7d789975ab1c251df65730767389752c063d65f3c276b3859034'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0134_000.markers.yaml, hash: 'sha256:e41a2ae2efbe9ce5530ef617c305344f138687083367765206523b61ac438117'}
-  - {seq: 1, role: markers, filename: assets/KR6a0134_001.markers.yaml, hash: 'sha256:e04b7598f8bf42138016bcd5f3e35e4f9eba9a66435b4453337c9223b6fc4721'}
+  - {seq: 1, role: markers, filename: assets/KR6a0134_001.markers.yaml, hash: 'sha256:c6f868e35bf9ee43f90c120cb19bf15c284af7b8c62856bfbfff810dd5e98978'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說食施獲五福報經
   type: juan
   level: 1
-hash: sha256:3115a1b675486060b407bdef01f221089eff6b40b009ad67c8e95f404b942cef
+hash: sha256:2e119fd31a525ef52417035ac5a01e533bd2e794b7783daa6c0df1600bac8ac5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
